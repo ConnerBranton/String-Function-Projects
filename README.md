@@ -1,4 +1,4 @@
-C# String-Function-Projects
+C# String-Function-Project
 
 This is a string funtion program including a menu to navigate through each function.
 
